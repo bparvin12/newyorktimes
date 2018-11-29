@@ -11,3 +11,8 @@
 .card-footer {
     text-align: center;
 }
+
+img {
+    width: 100%;
+    filter: invert(100%) ;
+}
