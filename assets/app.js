@@ -23,7 +23,7 @@ var results = response.response.docs;
 
 // var numberOfArticles = $(".class").attr("value")
 
-for (var i = 0; i < 8; i++) {
+for (var i = 0; i < 5; i++) {
     var totalArticle = $("<div>")
 
     var articles = $("<div>");
